@@ -21,5 +21,8 @@
 ![react](https://icongr.am/devicon/react-original.svg?size=69&color=00ffee)
 ![Laravel](https://icongr.am/devicon/laravel-plain.svg?size=69&color=ffffff)
 ![Node](https://icongr.am/devicon/nodejs-original.svg?size=69&color=ffffff)
-
-
+![MongoDB](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=69&color=ffffff)
+![MySQL](https://icongr.am/devicon/mysql-original.svg?size=69&color=ffffff)
+![JS](https://icongr.am/devicon/javascript-original.svg?size=69&color=ffffff)
+![TS](https://icongr.am/devicon/typescript-original.svg?size=69&color=ffffff)
+![PHP](https://icongr.am/devicon/php-original.svg?size=69&color=ffffff)
