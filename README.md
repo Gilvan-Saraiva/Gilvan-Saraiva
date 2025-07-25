@@ -16,9 +16,10 @@
 ###
 ###
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:juniorsaraivakibr@hotmail.com)
+![Express](https://icongr.am/devicon/express-original.svg?size=69&color=00ffee)
+![Angular](https://icongr.am/devicon/angularjs-original.svg?size=69&color=00ffee)
+![react](https://icongr.am/devicon/react-original.svg?size=69&color=00ffee)
+![Laravel](https://icongr.am/devicon/laravel-plain.svg?size=69&color=ffffff)
+![Node](https://icongr.am/devicon/nodejs-original.svg?size=69&color=ffffff)
+
 
